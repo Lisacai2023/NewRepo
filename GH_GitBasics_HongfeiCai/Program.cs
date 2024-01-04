@@ -11,6 +11,8 @@ namespace GH_GitBasics_HongfeiCai
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, Professor!");
+            Console.WriteLine("Hello, my name is Hongfei Cai and this my fourth quarter in RTC." +
+                "I completed CSI120, CSI122 windows forms in the 2023 winter and spring quarter. I want to learn conding and data knowledge.");
         }
     }
 }
